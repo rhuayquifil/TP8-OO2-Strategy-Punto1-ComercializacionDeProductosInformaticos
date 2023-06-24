@@ -1,8 +1,8 @@
 package ar.unrn.model;
 
-public class GranBuenosDestino extends Destino {
+public class GranBuenosAiresDestino extends Destino {
 
-	public GranBuenosDestino() {
+	public GranBuenosAiresDestino() {
 		super("Gran Buenos Aires", 2);
 		// TODO Auto-generated constructor stub
 	}
